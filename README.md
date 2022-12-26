@@ -1,5 +1,7 @@
 # yes-bank-stock-closing-price-prediction
- capstone project(yes Bank)
+ capstone project(yes Bank):
+ 
+ 
 Summary:
 In this project, exploratory data analysis, visualization, regression models with different types and interesting insights of the data have been performed. This dataset has around 185 observations in it with 5 columns. Fundamental Analysis involves analyzing the company’s future profitability on the basis of its current business environment and financial performance. Technical Analysis, on the other hand, includes reading the charts and using statistical figures to identify the trends in the stock market. The will be on the technical analysis part.
 
